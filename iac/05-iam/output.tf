@@ -13,3 +13,7 @@ output "accessGroup3" {
 output "accessGroup4" {
   value = ibm_iam_access_group.res_ag_4
 }
+
+output "accessGroup5" {
+  value = ibm_iam_access_group.res_ag_5
+}

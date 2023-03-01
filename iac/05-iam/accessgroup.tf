@@ -17,3 +17,8 @@ variable ag4 {
   type    = string
   default = "access-group-4"
 }
+
+variable ag5 {
+  type    = string
+  default = "access-group-5"
+}
